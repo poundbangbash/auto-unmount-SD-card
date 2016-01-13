@@ -12,3 +12,5 @@ Use that with an if/then statement to umount.  I did POC testing on the below an
 The umounting is nearly instant.  You may want to be nicer about force unmounting, etc.
 
 
+
+
